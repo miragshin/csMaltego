@@ -47,4 +47,4 @@ Library will generate and return XML.
 	addEntity(String Type, String Value); - adds entity
 	returnOutput(); - generates and returns XML 
 	
-**Other methods will be added.** 
+
