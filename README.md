@@ -5,7 +5,7 @@ Maltego Library coded in C# for developing Maltego Local transforms in C#.
 
 ## How to use
 
-Compile code and import to your project.
+Compile code and import dll to your project.
 
 ## Code 
 
