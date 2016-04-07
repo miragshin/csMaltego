@@ -1,7 +1,7 @@
 # csMaltego
 ## Maltego C# library
 
-Maltego Library coded in Java for developing Maltego Local transforms in Java.
+Maltego Library coded in C# for developing Maltego Local transforms in C#.
 
 ## How to use
 
