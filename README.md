@@ -19,7 +19,7 @@ Compile code and import dll to your project.
 
 **3. Adding property** 
 
-For adding property you have get entity from the list by referencing index of it. (Remember first element in array is 0, (I know you know this) :) )
+For adding property you have get entity from the list by referencing index of it. 
 
 	me.listEntities.get(i).addProperty(fieldName,displayName,matchingRule,value);
 
